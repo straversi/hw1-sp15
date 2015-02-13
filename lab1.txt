@@ -70,3 +70,5 @@ Adding CSS classes:
 Extra (Do this is was way too easy for you):
   Try to refractor the code so that we don't have to repeat the navbar in both the about and the home page.
   Take a look at the layouts folder under views to get a clue on how to do this.
+
+end
